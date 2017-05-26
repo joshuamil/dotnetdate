@@ -1,0 +1,27 @@
+{
+  "name": "dotnetdate-js",
+  "version": "0.0.2",
+  "description": "Translates Microsoft .NET JSON formatted dates to JS Date Objects",
+  "main": "dotnetdate-js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuamil/dotnetdate.git"
+  },
+  "keywords": [
+    "date",
+    ".NET",
+    "microsoft",
+    "json",
+    "transform",
+    "fix"
+  ],
+  "author": "Joshua Miller <joshuamil@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuamil/dotnetdate/issues"
+  },
+  "homepage": "https://github.com/joshuamil/dotnetdate#readme"
+}
